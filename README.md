@@ -1,2 +1,4 @@
 # Software-Project-5-Assignment-1
-My First repository & First commit on github
+This is my first repository in github.
+
+A repository contains all of our project's files and each file's revision history. We can discuss and manage our project's work within the repository.
